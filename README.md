@@ -1,4 +1,4 @@
-#CodingDojo #HelloWorld
+# Coding-Dojo Cohort 502
 
 Hello World!
 
